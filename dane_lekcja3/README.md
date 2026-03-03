@@ -1,1 +1,6 @@
-# Dane do lekcji 3 (mini-projekt)\n\n- participants_dirty.csv (1030 wierszy; zawiera duplikaty i braki)\n- trials_dirty.csv (3000 wierszy; zawiera niespójnosci kodowania)\n- city_reference.csv (słownik miast)\n- project_questions.json (pytania badawcze)\n
+# Dane do lekcji 3 (DataFrame)
+
+- employees.csv (700 wierszy)
+- departments.csv (8 wierszy)
+- employee_scores_wide.csv (500 wierszy)
+- monthly_hours.csv (1400 wierszy)
