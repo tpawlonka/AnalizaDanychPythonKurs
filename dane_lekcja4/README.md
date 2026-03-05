@@ -1,1 +1,22 @@
-# Dane do lekcji 3 (mini-projekt)\n\n- participants_dirty.csv (1030 wierszy; zawiera duplikaty i braki)\n- trials_dirty.csv (3000 wierszy; zawiera niespójnosci kodowania)\n- city_reference.csv (słownik miast)\n- project_questions.json (pytania badawcze)\n
+# Dane do lekcji 4 (dataset online: nycflights13)
+
+W tej wersji Lekcji 4 pracujemy na publicznym zbiorze online `nycflights13`.
+
+## Instalacja
+
+```bash
+pip install nycflights13
+```
+
+## Tabele używane w mini-projekcie
+
+- `flights`
+- `airlines`
+- `airports`
+- `weather`
+- `planes`
+
+## Źródła
+
+- https://github.com/tidyverse/nycflights13
+- https://pypi.org/project/nycflights13/
