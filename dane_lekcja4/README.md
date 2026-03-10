@@ -1,6 +1,6 @@
-# Dane do lekcji 4 (dataset online: nycflights13)
+# Dane do lekcji 4
 
-W tej wersji Lekcji 4 pracujemy na publicznym zbiorze online `nycflights13`.
+Lekcja 4 opiera się na publicznym zbiorze `nycflights13`.
 
 ## Instalacja
 
@@ -8,15 +8,23 @@ W tej wersji Lekcji 4 pracujemy na publicznym zbiorze online `nycflights13`.
 pip install nycflights13
 ```
 
-## Tabele używane w mini-projekcie
+## Tabele używane na zajęciach
 
-- `flights`
-- `airlines`
-- `airports`
-- `weather`
-- `planes`
+- `flights` - główna tabela lotów,
+- `airlines` - przewoźnicy,
+- `airports` - lotniska,
+- `weather` - dane pogodowe godzinowe,
+- `planes` - informacje o samolotach.
+
+## Główne cele lekcji
+
+1. audyt jakości dużej tabeli i tabel pomocniczych,
+2. czyszczenie braków i wartości spoza zakresu,
+3. bezpieczne merge wielu tabel,
+4. budowa cech czasu i opóźnień,
+5. odpowiedzi na pytania badawcze i prosty raport końcowy.
 
 ## Źródła
 
-- https://github.com/tidyverse/nycflights13
 - https://pypi.org/project/nycflights13/
+- https://github.com/tidyverse/nycflights13
