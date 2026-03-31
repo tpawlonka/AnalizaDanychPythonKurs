@@ -1,0 +1,11 @@
+{
+  "rows_final": 326369,
+  "best_carrier": {
+    "carrier": "US",
+    "dep_delay_median": -4.0
+  },
+  "worst_destination": {
+    "dest": "TYS",
+    "arr_delay_mean": 24.069204152249135
+  }
+}
